@@ -8,8 +8,8 @@ Esse projeto foi desenvolvido com o propósito de oferecer um sistema de cadastr
 
 ## API para a aplicação
 
-Para este projeto funcionar, foi criada uma API
-[Confira a documentação da API](https://github.com/DiegoAndreLeffa/clientshub-back)!
+Para este projeto funcionar, foi criada uma API.
+[Confira a documentação](https://github.com/DiegoAndreLeffa/clientshub-back)!
 
 ## Iniciando a aplicação
 
