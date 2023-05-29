@@ -1,4 +1,4 @@
-# ClientsHub - API
+# ClientsHub
 
 Este é o frontend da aplicação ClientsHub - Um site para gerenciamento de clientes e seus contatos
 
@@ -13,7 +13,7 @@ Para este projeto funcionar, foi criada uma API.
 
 ## Iniciando a aplicação
 
-- Depois de fazer o clone e abri ela no editor de código da sua escolha, abra o terminal e rode o comando `yarn` para baixar as bibliotecas necessarias.
+- Depois de fazer o clone e abri ela no editor de código da sua escolha, abra o terminal e rode o comando `yarn` para baixar as bibliotecas necessárias.
 
 - Para rodar a aplicação, inserir o comando `yarn run dev` no terminal.
 
