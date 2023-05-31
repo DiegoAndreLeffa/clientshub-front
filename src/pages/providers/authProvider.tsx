@@ -36,10 +36,10 @@ interface AuthProviderProps {
 
 interface AuthContextValues {
   getClient: (id: string) => void;
-  client: any;
+  client: Cliente | undefined;
   clients: Cliente[];
-  setClient: any;
-  setClients: any;
+  setClient: React.Dispatch<React.SetStateAction<Cliente | undefined>>;
+  setClients: React.Dispatch<React.SetStateAction<Cliente[]>>;
   postClients: (data: Cliente) => void;
   postContacts: (data: Contacts) => void;
   attClients: (clientId: string, dataForm: Cliente) => void;
